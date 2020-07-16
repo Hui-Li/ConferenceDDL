@@ -9,7 +9,8 @@
   date: March 8-12, 2021
   place: Jerusalem, Israel
   sub: IR
-  note: '<b>NOTE</b>:<br>October 16, 2020: Notification.'
+  note: '<b>NOTE</b>:
+         <br>October 16, 2020: Notification.'
 
 - title: AAAI
   year: 2021
@@ -21,8 +22,10 @@
   date: February 2-9, 2021
   place: Virtual Conference
   sub: AI
-  note: '<b>NOTE</b>:<br>September 01, 2020: Abstract Deadline.<br>November 3-5, 2020:
-    Author Feedback Window.<br>December 1, 2020: Notification.'
+  note: '<b>NOTE</b>:
+         <br>September 01, 2020: Abstract Deadline.
+         <br>November 3-5, 2020: Author Feedback Window.
+         <br>December 1, 2020: Notification.'
 
 - title: SIGMOD (Second Round)
   year: 2021
@@ -33,9 +36,11 @@
   date: June 20-25, 2021
   place: Xi'an, Shaanxi, China
   sub: DB
-  note: '<b>NOTE</b>:<br>October 27-30, 2020: Author Feedback.<br>November 30, 2020:
-    Notification of accept/revise/reject.<br>February 10, 2021: Revised paper submission.<br>
-    March 10, 2021: Notification of accept/reject for revised submission.'
+  note: '<b>NOTE</b>:
+         <br>October 27-30, 2020: Author Feedback.
+         <br>November 30, 2020: Notification of accept/revise/reject.
+         <br>February 10, 2021: Revised paper submission.
+         <br>March 10, 2021: Notification of accept/reject for revised submission.'
 
 - title: ICDE (Second Round)
   year: 2021
@@ -47,9 +52,11 @@
   date: April 19-23, 2021
   place: Chania, Crete, Greece
   sub: DB
-  note: '<b>NOTE</b>:<br>October 7, 2020: Abstract Deadline.<br>December 15, 2020:
-    Notification to authors (Accept/Revise/Reject).<br>January 15, 2020: Revisions
-    due.<br>Notification: February 9, 2021.'
+  note: '<b>NOTE</b>:
+         <br>October 7, 2020: Abstract Deadline.
+         <br>December 15, 2020: Notification to authors (Accept/Revise/Reject).
+         <br>January 15, 2020: Revisions due.
+         <br>Notification: February 9, 2021.'
 
 - title: ICDE (First Round)
   year: 2021
@@ -61,9 +68,11 @@
   date: April 19-23, 2021
   place: Chania, Crete, Greece
   sub: DB
-  note: '<b>NOTE</b>:<br>June 10, 2020: Abstract Deadline.<br>August 11, 2020: Notification
-    to authors (Accept/Revise/Reject).<br>September 11, 2020: Revisions due.<br>October
-    2, 2020: Notification to authors (Accept/Reject).'
+  note: '<b>NOTE</b>:
+         <br>June 10, 2020: Abstract Deadline.
+         <br>August 11, 2020: Notification to authors (Accept/Revise/Reject).
+         <br>September 11, 2020: Revisions due.
+         <br>October 2, 2020: Notification to authors (Accept/Reject).'
 
 - title: SIGMOD (First Round)
   year: 2021
@@ -74,6 +83,8 @@
   date: June 20-25, 2021
   place: Xi'an, Shaanxi, China
   sub: DB
-  note: '<b>NOTE</b>:<br>August 11-14, 2020: Author Feedback.<br>September 14, 2020:
-    Notification of accept/revise/reject.<br>November 25, 2020: Revised paper submission.<br>
-    December 23, 2020: Notification of accept/reject for revised submission.'
+  note: '<b>NOTE</b>:
+         <br>August 11-14, 2020: Author Feedback.
+         <br>September 14, 2020: Notification of accept/revise/reject.
+         <br>November 25, 2020: Revised paper submission.
+         <br>December 23, 2020: Notification of accept/reject for revised submission.'

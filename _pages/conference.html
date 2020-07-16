@@ -30,7 +30,7 @@ permalink:  /conference/
                 <div class="col-xs-12 col-sm-12">
                   <h1>
                     <a id="conf-title-href" nohref></a>
-                    <span id="twitter-box"></span>
+                    <!-- <span id="twitter-box"></span> -->
                   </h1>
                 </div>
                 <div class="meta deadline col-xs-12">
@@ -53,6 +53,13 @@ permalink:  /conference/
                 <div class="meta deadline col-xs-2 col-sm-1 col-md-5">
                   Website:
                 </div>
+                <div class="meta deadline col-xs-2 col-sm-1 col-md-5">
+                  {% if conf.note %}
+                  <div class="note">
+                    {{conf.note}}
+                  </div>
+                  {% endif %}
+                </div>
                 <div class="meta deadline col-xs-10 col-sm-11 col-md-7">
                   <a id="conf-website" target="_blank" nohref></a><br>
                 </div>
@@ -69,8 +76,12 @@ permalink:  /conference/
           <hr>
         </div>
         <footer>
-          <a href="/">{{ site.domain }}</a> is maintained by <a href="//twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.<br>
-          If you find it useful, consider buying him <a target="_blank" href="https://read.gift/u/abhshkdz">a book</a> or <a title="_blank" href="https://www.buymeacoffee.com/abhshkdz">coffee</a>.
+          <div class="row">
+            <div class="col-xs-12" style="text-align: center;">
+              This website is maintained by Data Mining Group@Xiamen University.<br>
+              Original Designer: <a href="https://github.com/abhshkdz/ai-deadlines" target="_self">Abhishek Das</a>
+            </div>
+          </div>
         </footer>
     </div>
     <script type="text/javascript" charset="utf-8">
@@ -139,12 +150,12 @@ permalink:  /conference/
         {% endfor %}
     });
     // Google analytics
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', '{{ site.ga_id }}', 'auto');
-    ga('send', 'pageview');
+    // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    // m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    // })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    // ga('create', '{{ site.ga_id }}', 'auto');
+    // ga('send', 'pageview');
     </script>
   </body>
 </html>
