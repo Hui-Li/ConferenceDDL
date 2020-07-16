@@ -1,13 +1,11 @@
 ---
-- name: Machine Learning
-  sub: ML
-- name: Computer Vision
-  sub: CV
-- name: Natural Language Proc
-  sub: NLP
-- name: Robotics
-  sub: RO
-- name: Speech/SigProc
-  sub: SP
 - name: Data Mining
   sub: DM
+- name: Database
+  sub: DB
+- name: Information Retrieval
+  sub: IR
+- name: Natural Language Processing
+  sub: NLP
+- name: Artificial Intelligence
+  sub: AI
