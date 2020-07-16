@@ -3,8 +3,9 @@ title: Conference Deadlines
 description: Countdowns to top DM/DB/IR/NLP/AI conference deadlines
 author: Hui Li
 
-domain: "https://hui-li.github.io/ConferenceDDL"
-baseurl: ""
+# domain: "https://hui-li.github.io/ConferenceDDL"
+baseurl: "/ConferenceDDL"
+url: "https://hui-li.github.io"
 
 # twitter_username:
 # twitter_hashtag: 
