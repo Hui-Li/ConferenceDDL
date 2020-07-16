@@ -73,7 +73,7 @@
         <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
           <div class="row conf-row">
               <div class="col-xs-5 col-sm-6">
-                  <a class="conf-title" href="/conference?id={{ conf.id }}">{{conf.title}} {{conf.year}}</a>
+                  <a class="conf-title" href="/conference?id={{ conf.id }}" target="_blank">{{conf.title}} {{conf.year}}</a>
               </div>
               <div class="col-xs-7 col-sm-6">
                 <span class="timer"></span>
@@ -87,7 +87,7 @@
                   {% if conf.place == "Online" %}
                   <a href="#">{{conf.place}}</a>.
                   {% else %}
-                  <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>.
+                  <a href="http://maps.google.com/?q={{conf.place}}" target="_blank">{{conf.place}}</a>.
                   {% endif %}
                 </span>
               </div>
@@ -118,7 +118,7 @@
           <div class="row">
             <div class="col-xs-12" style="text-align: center;">
               This website is maintained by Data Mining Group@Xiamen University.<br>
-              Original Designer: <a href="https://github.com/abhshkdz/ai-deadlines" target="_self">Abhishek Das</a>
+              Original Designer: <a href="https://github.com/abhshkdz/ai-deadlines" target="_blank">Abhishek Das</a>
             </div>
           </div>
         </footer>
