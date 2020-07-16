@@ -11,6 +11,8 @@ To add or update a deadline:
 - Add a `note` to include other information, e.g., author feedback date and notification date. Use `<br>` in `note` to start a new line. 
 - run `utils/process.py` to sort and clean conference deadlines. It writes to `sorted_data.yml`, copy it to `_data/conference.yml`. 
 
+![Description](Description.png)
+
 To run it in local machine:
 
 ```

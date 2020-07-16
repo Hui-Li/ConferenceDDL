@@ -53,15 +53,11 @@ permalink:  /conference/
                 <div class="meta deadline col-xs-2 col-sm-1 col-md-5">
                   Website:
                 </div>
-                <div class="meta deadline col-xs-2 col-sm-1 col-md-5">
-                  {% if conf.note %}
-                  <div class="note">
-                    {{conf.note}}
-                  </div>
-                  {% endif %}
-                </div>
                 <div class="meta deadline col-xs-10 col-sm-11 col-md-7">
                   <a id="conf-website" target="_blank" nohref></a><br>
+                </div>
+                <div class="meta note col-xs-2 col-sm-1 col-md-5">
+                  <span id="conf-note"></span>
                 </div>
             </div>
         </div>
@@ -118,6 +114,7 @@ permalink:  /conference/
               $('#conf-title-href').attr('href', "/conference?id={{conf.id}}");
               $('#conf-date').text("{{conf.date}}");
               $('#conf-place').text("{{conf.place}}");
+              $('#conf-note').html("{{conf.note}}");
               $('#conf-website').text("{{conf.link}}");
               $('#conf-website').attr('href', "{{conf.link}}");
               var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #{{ conf.title }}{{ conf.year }} deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
