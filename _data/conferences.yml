@@ -27,6 +27,17 @@
          <br>November 3-5, 2020: Author Feedback Window.
          <br>December 1, 2020: Notification.'
 
+- title: SDM
+  year: 2021
+  id: sdm21
+  link: https://www.siam.org/conferences/cm/conference/sdm21
+  deadline: '2020-09-21 23:59:00'
+  timezone: UTC-5
+  date: March 25-27, 2021
+  place: Alexandria, Virginia, USA
+  sub: DM
+  note: '<b>NOTE</b>: <br>December, 2020: Notification.'
+
 - title: SIGMOD (Second Round)
   year: 2021
   id: sigmod21_2
@@ -57,6 +68,34 @@
          <br>December 15, 2020: Notification to authors (Accept/Revise/Reject).
          <br>January 15, 2020: Revisions due.
          <br>Notification: February 9, 2021.'
+
+- title: The Web Conference
+  year: 2021
+  id: www21
+  link: http://www2021.thewebconf.org/
+  abstract_deadline: '2020-10-12 23:59:00'
+  deadline: '2020-10-19 23:59:00'
+  timezone: UTC-12
+  date: April 19-23, 2021
+  place: Ljubljana, Slovenia
+  sub: DM
+  note: '<b>NOTE</b>: 
+         <br>October 12, 2020: Abstract Deadline. 
+         <br>November 25-2, 2020: Rebuttal Phase. 
+         <br>January 15, 2021: Acceptance notifications.'
+
+- title: DASFAA
+  year: 2021
+  id: dasfaa21
+  link: http://dm.iis.sinica.edu.tw/DASFAA2021/
+  deadline: '2020-11-04 23:59:00'
+  abstract_deadline: '2020-10-28 23:59:00'
+  timezone: UTC-7
+  date: April 11-14, 2021
+  place: Taipei, Taiwan, China
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>December 28, 2020: Notification.'
 
 - title: ICDE (First Round)
   year: 2021
