@@ -1,17 +1,5 @@
 ---
 
-- title: WSDM
-  year: 2021
-  id: wsdm21
-  link: http://www.wsdm-conference.org/2021/
-  deadline: '2020-08-16 23:59:00'
-  timezone: UTC-12
-  date: March 8-12, 2021
-  place: Jerusalem, Israel
-  sub: IR
-  note: '<b>NOTE</b>:
-         <br>October 16, 2020: Notification.'
-
 - title: AAAI
   year: 2021
   id: aaai21
@@ -19,13 +7,11 @@
   abstract_deadline: '2020-09-01 23:59:00'
   deadline: '2020-09-09 23:59:00'
   timezone: UTC-12
-  date: February 2-9, 2021
+  date: Feb 2-9, 2021
   place: Virtual Conference
   sub: AI
-  note: '<b>NOTE</b>:
-         <br>September 1, 2020: Abstract Deadline.
-         <br>November 3-5, 2020: Author Feedback Window.
-         <br>December 1, 2020: Notification.'
+  note: '<b>NOTE</b>: <br>Sep 1, 2020: Abstract Deadline. <br>Nov 3-5, 2020: Author
+    Feedback Window. <br>Dec 1, 2020: Notification.'
 
 - title: SDM
   year: 2021
@@ -33,10 +19,10 @@
   link: https://www.siam.org/conferences/cm/conference/sdm21
   deadline: '2020-09-21 23:59:00'
   timezone: UTC-5
-  date: March 25-27, 2021
+  date: Mar 25-27, 2021
   place: Alexandria, Virginia, USA
   sub: DM
-  note: '<b>NOTE</b>: <br>December, 2020: Notification.'
+  note: '<b>NOTE</b>: <br>Dec, 2020: Notification.'
 
 - title: SIGMOD (Second Round)
   year: 2021
@@ -44,14 +30,12 @@
   link: http://2021.sigmod.org/
   deadline: '2020-09-22 17:00:00'
   timezone: UTC-7
-  date: June 20-25, 2021
+  date: Jun 20-25, 2021
   place: Xi'an, Shaanxi, China
   sub: DB
-  note: '<b>NOTE</b>:
-         <br>October 27-30, 2020: Author Feedback.
-         <br>November 30, 2020: Notification of accept/revise/reject.
-         <br>February 10, 2021: Revised paper submission.
-         <br>March 10, 2021: Notification of accept/reject for revised submission.'
+  note: '<b>NOTE</b>: <br>Oct 27-30, 2020: Author Feedback. <br>Nov 30, 2020: Notification
+    of accept/revise/reject. <br>Feb 10, 2021: Revised paper submission. <br>Mar 10,
+    2021: Notification of accept/reject for revised submission.'
 
 - title: ICDE (Second Round)
   year: 2021
@@ -60,14 +44,12 @@
   abstract_deadline: '2020-10-07 23:59:00'
   deadline: '2020-10-14 23:59:00'
   timezone: UTC-12
-  date: April 19-23, 2021
+  date: Apr 19-23, 2021
   place: Chania, Crete, Greece
   sub: DB
-  note: '<b>NOTE</b>:
-         <br>October 7, 2020: Abstract Deadline.
-         <br>December 15, 2020: Notification to authors (Accept/Revise/Reject).
-         <br>January 15, 2020: Revisions due.
-         <br>Notification: February 9, 2021.'
+  note: '<b>NOTE</b>: <br>Oct 7, 2020: Abstract Deadline. <br>Dec 15, 2020: Notification
+    to authors (Accept/Revise/Reject). <br>Jan 15, 2021: Revisions due. <br>Notification:
+    Feb 9, 2021.'
 
 - title: The Web Conference
   year: 2021
@@ -76,13 +58,11 @@
   abstract_deadline: '2020-10-12 23:59:00'
   deadline: '2020-10-19 23:59:00'
   timezone: UTC-12
-  date: April 19-23, 2021
+  date: Apr 19-23, 2021
   place: Ljubljana, Slovenia
   sub: DM
-  note: '<b>NOTE</b>: 
-         <br>October 12, 2020: Abstract Deadline. 
-         <br>November 25-2, 2020: Rebuttal Phase. 
-         <br>January 15, 2021: Acceptance notifications.'
+  note: '<b>NOTE</b>: <br>Oct 12, 2020: Abstract Deadline. <br>Nov 25 - Dec 2, 2020:
+    Rebuttal Phase. <br>Jan 15, 2021: Acceptance notifications.'
 
 - title: DASFAA
   year: 2021
@@ -91,11 +71,10 @@
   deadline: '2020-11-04 23:59:00'
   abstract_deadline: '2020-10-28 23:59:00'
   timezone: UTC-7
-  date: April 11-14, 2021
+  date: Apr 11-14, 2021
   place: Taipei, Taiwan, China
   sub: DB
-  note: '<b>NOTE</b>: 
-         <br>December 28, 2020: Notification.'
+  note: '<b>NOTE</b>: <br>Dec 28, 2020: Notification.'
 
 - title: ICDE (First Round)
   year: 2021
@@ -104,14 +83,12 @@
   abstract_deadline: '2020-06-10 23:59:00'
   deadline: '2020-06-17 23:59:00'
   timezone: UTC-12
-  date: April 19-23, 2021
+  date: Apr 19-23, 2021
   place: Chania, Crete, Greece
   sub: DB
-  note: '<b>NOTE</b>:
-         <br>June 10, 2020: Abstract Deadline.
-         <br>August 11, 2020: Notification to authors (Accept/Revise/Reject).
-         <br>September 11, 2020: Revisions due.
-         <br>October 2, 2020: Notification to authors (Accept/Reject).'
+  note: '<b>NOTE</b>: <br>Jun 10, 2020: Abstract Deadline. <br>Aug 11, 2020: Notification
+    to authors (Accept/Revise/Reject). <br>Sep 11, 2020: Revisions due. <br>Oct 2,
+    2020: Notification to authors (Accept/Reject).'
 
 - title: SIGMOD (First Round)
   year: 2021
@@ -122,8 +99,17 @@
   date: June 20-25, 2021
   place: Xi'an, Shaanxi, China
   sub: DB
-  note: '<b>NOTE</b>:
-         <br>August 11-14, 2020: Author Feedback.
-         <br>September 14, 2020: Notification of accept/revise/reject.
-         <br>November 25, 2020: Revised paper submission.
-         <br>December 23, 2020: Notification of accept/reject for revised submission.'
+  note: '<b>NOTE</b>: <br>Aug 11-14, 2020: Author Feedback. <br>Sep 14, 2020: Notification
+    of accept/revise/reject. <br>Nov 25, 2020: Revised paper submission. <br>Dec 23,
+    2020: Notification of accept/reject for revised submission.'
+
+- title: WSDM
+  year: 2021
+  id: wsdm21
+  link: http://www.wsdm-conference.org/2021/
+  deadline: '2020-08-16 23:59:00'
+  timezone: UTC-12
+  date: Mar 8-12, 2021
+  place: Jerusalem, Israel
+  sub: IR
+  note: '<b>NOTE</b>: <br>Oct 16, 2020: Notification.'
