@@ -8,7 +8,9 @@
   timezone: UTC-12
   date: Mar 8-12, 2021
   place: Jerusalem, Israel
-  sub: IR
+  sub: 
+    - DM
+    - IR
   note: '<b>NOTE</b>: 
          <br>Oct 16, 2020: Notification.'
 
@@ -51,7 +53,9 @@
   timezone: UTC-12
   date: Apr 19-23, 2021
   place: Ljubljana, Slovenia
-  sub: DM
+  sub: 
+    - DM
+    - IR
   note: '<b>NOTE</b>: 
          <br>Oct 12, 2020: Abstract Deadline. 
          <br>Nov 25 - Dec 2, 2020: Author Response.  

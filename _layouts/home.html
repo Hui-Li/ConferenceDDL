@@ -109,9 +109,9 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-xs-12">
-                <span title="Click to only show {{conf.sub}} conferences" data-sub="{{conf.sub}}" class="conf-sub"></span>
-              </div>
+                {% for sub in conf.sub %}
+                <span title="Click to only show {{sub}} conferences" data-sub="{{sub}}" class="conf-sub {{sub}}-tag"></span>
+                {% endfor %}
             </div>
             <hr>
           </div>
@@ -170,9 +170,10 @@
           sub2name[conf_type_data[i]['sub']] = conf_type_data[i]['name'];
           name2sub[conf_type_data[i]['name']] = conf_type_data[i]['sub'];
         }
-
         {% for conf in site.data.conferences %}
-        $('#{{conf.id}} .conf-sub').html(sub2name["{{conf.sub}}"].toLocaleLowerCase());
+        {% for sub in conf.sub %}
+        $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
+        {% endfor %}
         {% if conf.deadline == "TBA" %}
           $('#{{conf.id}} .timer').html("TBA");
           $('#{{conf.id}} .deadline-time').html("TBA");
@@ -244,6 +245,18 @@
         } else {
            subs = subs.toUpperCase().split(',');
         }
+        if (subs != undefined) {
+          // Hide unchecked subs
+          for (var i = 0; i < all_subs.length; i++) {
+            if (subs.indexOf(all_subs[i]) < 0) {
+              $('.' + all_subs[i] + '-conf').hide();
+            }
+          }
+          // In case a conf with multiple types is wrongly hid, show all confs with at least one checked type.
+          for (var i = 0; i < subs.length; i++) {
+            $('.' + subs[i] + '-conf').show();
+          }
+        }
         // Get subjects from browser cache
         if (subs === undefined) {
           subs = all_subs;
@@ -253,12 +266,6 @@
         } else {
           for (var i = 0; i < subs.length; i++) {
             $('#' + subs[i] + '-checkbox').prop('checked', true);
-          }
-        }
-        // Hide unchecked subs
-        for (var i = 0; i < all_subs.length; i++) {
-          if (subs.indexOf(all_subs[i]) < 0) {
-            $('.' + all_subs[i] + '-conf').hide();
           }
         }
         store.set('{{ site.domain }}', subs);
@@ -279,6 +286,10 @@
             var idx = subs.indexOf(csub);
             if (idx >= 0)
               subs.splice(idx, 1);
+            // In case a conf with multiple types (including this type) is wrongly hid, show all confs with at least one checked type.
+            for (var i = 0; i < subs.length; i++) {
+              $('.' + subs[i] + '-conf').show();
+            }
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
@@ -293,11 +304,9 @@
               $('#' + subs[i] + '-checkbox').prop('checked', false);
               $('.' + subs[i] + '-conf').hide();
             }
-            else {
-              $('#' + subs[i] + '-checkbox').prop('checked', true);
-              $('.' + subs[i] + '-conf').show();
-            }
           }
+          $('#' + csub + '-checkbox').prop('checked', true);
+          $('.' + csub + '-conf').show();
           subs = [csub];
           console.log(subs);
           store.set('{{ site.domain }}', subs);

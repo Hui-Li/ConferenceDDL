@@ -10,6 +10,17 @@ To add or update a deadline:
 - Optionally add an `abstract_deadline` in case the conference has a separate mandatory abstract deadline
 - Add a `note` to include other information, e.g., author feedback date and notification date. Use `<br>` in `note` to start a new line. 
 
+A conference can have one sub which can be set in `_data/conferences.yml` as:
+```
+sub: DM
+```
+or multiple subs which can be set in `_data/conferences.yml` as:
+```
+sub: 
+    - DM
+    - IR
+```
+
 ![Description](Description.png)
 
 To run it in local machine:
