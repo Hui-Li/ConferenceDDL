@@ -9,7 +9,6 @@ To add or update a deadline:
     + See available timezone strings [here](https://momentjs.com/timezone/).
 - Optionally add an `abstract_deadline` in case the conference has a separate mandatory abstract deadline
 - Add a `note` to include other information, e.g., author feedback date and notification date. Use `<br>` in `note` to start a new line. 
-- run `utils/process.py` to sort and clean conference deadlines. It writes to `sorted_data.yml`, copy it to `_data/conference.yml`. 
 
 ![Description](Description.png)
 
