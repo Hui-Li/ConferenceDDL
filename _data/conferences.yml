@@ -1,5 +1,20 @@
 ---
 
+- title: SIGIR
+  year: 2021
+  id: sigir
+  link: http://sigir.org/sigir2021/
+  abstract_deadline: '2021-02-02 23:59:00'
+  deadline: '2021-02-09 23:59:00'
+  timezone: UTC-12
+  date: TBD
+  place: Montreal, Canada
+  sub: IR
+  note: '<b>NOTE</b>: 
+         <br>Feb 2, 2021: Abstract Deadline. 
+         <br>Apr 19, 2021: Notification.'
+
+
 - title: WSDM
   year: 2021
   id: wsdm
@@ -18,7 +33,7 @@
 - title: AAAI
   year: 2021
   id: aaai
-  link: https://aaai.org/Conferences/AAAI-21/
+  link: https://aaai.org/Conferences/AAAI-21
   abstract_deadline: '2020-09-01 23:59:00'
   deadline: '2020-09-09 23:59:00'
   timezone: UTC-12
@@ -26,9 +41,27 @@
   place: Virtual Conference
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Sep 1, 2020: Abstract Deadline. 
+         <br>Sep 1, 2020: Abstract Deadline.
+         <br>Oct 13, 2020: Notification of Phase 1 Rejections.
          <br>Nov 3-5, 2020: Author Response. 
          <br>Dec 1, 2020: Notification.'
+
+
+- title: IJCAI
+  year: 2021
+  id: ijcai
+  link: https://ijcai-21.org/
+  abstract_deadline: '2021-01-12 23:59:00'
+  deadline: '2021-01-18 23:59:00'
+  timezone: UTC-12
+  date: Aug 21-26, 2021
+  place: Montreal, Canada
+  sub: AI
+  note: '<b>NOTE</b>: 
+         <br>Jan 12, 2021: Abstract Deadline. 
+         <br>Feb 5, 2021: Summary Reject Notification. 
+         <br>Mar 20-24, 2021: Author Response. 
+         <br>Apr 25, 2021: Notification.'
 
 
 - title: SDM
