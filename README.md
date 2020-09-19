@@ -1,6 +1,6 @@
 ## Conference Deadlines
 
-Countdown timers to keep track of a bunch of DM/DB/IR/NLP/AI conference deadlines.
+Countdown timers to keep track of a bunch of DM/DB/IR/NLP/AI/ML conference deadlines.
 
 ## How to use
 To add or update a deadline:
