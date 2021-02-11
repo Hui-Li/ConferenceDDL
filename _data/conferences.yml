@@ -1,5 +1,36 @@
 ---
 
+- title: ICDM
+  year: 2021
+  id: icdm
+  link: https://icdm2021.auckland.ac.nz
+  deadline: '2021-06-11 23:59:59'
+  timezone: UTC-7
+  date: Dec 7-10, 2021
+  place: Auckland, New Zealand
+  sub: DM
+  note: '<b>NOTE</b>: 
+         <br>Aug 31, 2021: Notification.'
+
+
+- title: ECML-PKDD
+  year: 2021
+  id: ecml-pkdd
+  link: https://2021.ecmlpkdd.org
+  abstract_deadline: '2021-03-26 23:59:59'
+  deadline: '2021-04-02 23:59:59'
+  timezone: UTC-12
+  date: Sep 13-17, 2021
+  place: Virtual Conference
+  sub: 
+    - ML
+    - DM
+    - DB
+  note: '<b>NOTE</b>: 
+         <br>Mar 26, 2021: Abstract Deadline. 
+         <br>Jun 18, 2021: Notification.'
+
+
 - title: ICLR
   year: 2021
   id: iclr
@@ -19,8 +50,8 @@
   year: 2021
   id: icml
   link: https://icml.cc/Conferences/2021
-  abstract_deadline: '2021-01-28 23:59:00'
-  deadline: '2021-02-04 23:59:00'
+  abstract_deadline: '2021-01-28 23:59:59'
+  deadline: '2021-02-04 23:59:59'
   timezone: UTC-12
   date: Jul 18-24, 2021
   place: Vienna, Austria
@@ -35,8 +66,8 @@
   year: 2021
   id: acl
   link: https://2021.aclweb.org
-  abstract_deadline: '2021-01-25 23:59:00'
-  deadline: '2021-02-01 23:59:00'
+  abstract_deadline: '2021-01-25 23:59:59'
+  deadline: '2021-02-01 23:59:59'
   timezone: UTC-12
   date: Aug 2-4, 2021
   place: Bangkok, Thailand
@@ -47,11 +78,27 @@
          <br>May 5, 2021: Notification.'
 
 
+- title: EMNLP
+  year: 2021
+  id: emnlp
+  link: https://2021.emnlp.org
+  abstract_deadline: '2021-05-10 23:59:59'
+  deadline: '2021-05-17 23:59:59'
+  timezone: UTC-12
+  date: Nov 7-9, 2021
+  place: Punta Cana, Dominican Republic
+  sub: NLP
+  note: '<b>NOTE</b>: 
+         <br>May 10, 2021: Abstract Deadline. 
+         <br>Jul 11-17, 2021: Author Response. 
+         <br>Aug 25, 2021: Notification.'
+
+
 - title: KDD
   year: 2021
   id: kdd
   link: https://www.kdd.org/kdd2021
-  deadline: '2021-02-08 23:59:00'
+  deadline: '2021-02-08 23:59:59'
   timezone: UTC-12
   date: Aug 14-18, 2021
   place: Singapore
@@ -64,8 +111,8 @@
   year: 2021
   id: sigir
   link: http://sigir.org/sigir2021
-  abstract_deadline: '2021-02-02 23:59:00'
-  deadline: '2021-02-09 23:59:00'
+  abstract_deadline: '2021-02-02 23:59:59'
+  deadline: '2021-02-09 23:59:59'
   timezone: UTC-12
   date: Jul 11-15, 2021
   place: Montreal, Canada
@@ -79,7 +126,7 @@
   year: 2021
   id: wsdm
   link: http://www.wsdm-conference.org/2021/
-  deadline: '2020-08-16 23:59:00'
+  deadline: '2020-08-16 23:59:59'
   timezone: UTC-12
   date: Mar 8-12, 2021
   place: Jerusalem, Israel
@@ -94,8 +141,8 @@
   year: 2021
   id: aaai
   link: https://aaai.org/Conferences/AAAI-21
-  abstract_deadline: '2020-09-01 23:59:00'
-  deadline: '2020-09-09 23:59:00'
+  abstract_deadline: '2020-09-01 23:59:59'
+  deadline: '2020-09-09 23:59:59'
   timezone: UTC-12
   date: Feb 2-9, 2021
   place: Virtual Conference
@@ -111,8 +158,8 @@
   year: 2021
   id: ijcai
   link: https://ijcai-21.org/
-  abstract_deadline: '2021-01-12 23:59:00'
-  deadline: '2021-01-18 23:59:00'
+  abstract_deadline: '2021-01-12 23:59:59'
+  deadline: '2021-01-18 23:59:59'
   timezone: UTC-12
   date: Aug 21-26, 2021
   place: Montreal, Canada
@@ -128,7 +175,7 @@
   year: 2021
   id: sdm
   link: https://www.siam.org/conferences/cm/conference/sdm21
-  deadline: '2020-09-21 23:59:00'
+  deadline: '2020-09-21 23:59:59'
   timezone: UTC-5
   date: Mar 25-27, 2021
   place: Alexandria, Virginia, USA
@@ -141,8 +188,8 @@
   year: 2021
   id: www
   link: http://www2021.thewebconf.org/
-  abstract_deadline: '2020-10-12 23:59:00'
-  deadline: '2020-10-19 23:59:00'
+  abstract_deadline: '2020-10-12 23:59:59'
+  deadline: '2020-10-19 23:59:59'
   timezone: UTC-12
   date: Apr 19-23, 2021
   place: Ljubljana, Slovenia
@@ -159,8 +206,8 @@
   year: 2021
   id: dasfaa
   link: http://dm.iis.sinica.edu.tw/DASFAA2021/
-  deadline: '2020-11-04 23:59:00'
-  abstract_deadline: '2020-10-28 23:59:00'
+  deadline: '2020-11-04 23:59:59'
+  abstract_deadline: '2020-10-28 23:59:59'
   timezone: UTC-7
   date: Apr 11-14, 2021
   place: Taipei, Taiwan, China
@@ -205,8 +252,8 @@
   year: 2021
   id: icde_1
   link: https://icde2021.gr/
-  abstract_deadline: '2020-06-10 23:59:00'
-  deadline: '2020-06-17 23:59:00'
+  abstract_deadline: '2020-06-10 23:59:59'
+  deadline: '2020-06-17 23:59:59'
   timezone: UTC-12
   date: Apr 19-23, 2021
   place: Chania, Crete, Greece
@@ -222,8 +269,8 @@
   year: 2021
   id: icde_2
   link: https://icde2021.gr/
-  abstract_deadline: '2020-10-07 23:59:00'
-  deadline: '2020-10-14 23:59:00'
+  abstract_deadline: '2020-10-07 23:59:59'
+  deadline: '2020-10-14 23:59:59'
   timezone: UTC-12
   date: Apr 19-23, 2021
   place: Chania, Crete, Greece
