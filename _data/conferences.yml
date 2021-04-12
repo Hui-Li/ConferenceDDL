@@ -81,6 +81,22 @@
          <br>May 8, 2021: Notification.'
 
 
+- title: NeurIPS
+  year: 2021
+  id: neurips
+  link: https://nips.cc
+  abstract_deadline: '2021-05-19 23:59:59'
+  deadline: '2021-05-26 23:59:59'
+  timezone: UTC
+  date: Dec 6-14, 2021
+  place: Virtual Conference
+  sub: ML
+  note: '<b>NOTE</b>: 
+         <br>May 19, 2021: Abstract Deadline. 
+         <br>Aug 3, 2021: Author Response.
+         <br>Sep 28, 2021: Notification.'
+
+
 - title: ACL
   year: 2021
   id: acl
@@ -139,6 +155,21 @@
   note: '<b>NOTE</b>: 
          <br>Feb 2, 2021: Abstract Deadline. 
          <br>Apr 19, 2021: Notification.'
+
+
+- title: CIKM
+  year: 2021
+  id: cikm
+  link: http://www.cikm2021.org
+  abstract_deadline: '2021-05-19 23:59:59'
+  deadline: '2021-05-26 23:59:59'
+  timezone: UTC-12
+  date: Nov 1-5, 2021
+  place: Virtual Conference
+  sub: IR
+  note: '<b>NOTE</b>: 
+         <br>May 19, 2021: Abstract Deadline. 
+         <br>Aug 9, 2021: Notification.'
 
 
 - title: WSDM
