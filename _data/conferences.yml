@@ -51,18 +51,19 @@
 
 
 - title: ICLR
-  year: 2021
+  year: 2022
   id: iclr
-  link: https://iclr.cc/Conferences/2021
-  abstract_deadline: '2020-09-28 08:00:00'
-  deadline: '2020-10-02 08:00:00'
+  link: https://iclr.cc/Conferences/2022
+  abstract_deadline: '2021-09-28 17:00:00'
+  deadline: '2021-10-05 17:00:00'
   timezone: UTC-7
-  date: Mar 4-8, 2021
+  date: Apr 25-29, 2022
   place: Vienna, Austria
   sub: ML
   note: '<b>NOTE</b>: 
-         <br>Sep 28, 2020: Abstract Deadline. 
-         <br>Jan 12, 2021: Notification.'
+         <br>Sep 28, 2021: Abstract deadline. 
+         <br>Nov 8-22, 2021: Author discussion period . 
+         <br>Jan 24, 2022: Notification.'
 
 
 - title: ICML
@@ -188,20 +189,20 @@
 
 
 - title: AAAI
-  year: 2021
+  year: 2022
   id: aaai
-  link: https://aaai.org/Conferences/AAAI-21
-  abstract_deadline: '2020-09-01 23:59:59'
-  deadline: '2020-09-09 23:59:59'
+  link: https://aaai.org/Conferences/AAAI-22
+  abstract_deadline: '2021-08-30 23:59:59'
+  deadline: '2021-09-08 23:59:59'
   timezone: UTC-12
-  date: Feb 2-9, 2021
-  place: Virtual Conference
+  date: Feb 22 - Mar 1, 2022
+  place: Vancouver, BC, Canada
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Sep 1, 2020: Abstract Deadline.
-         <br>Oct 13, 2020: Notification of Phase 1 Rejections.
-         <br>Nov 3-5, 2020: Author Response. 
-         <br>Dec 1, 2020: Notification.'
+         <br>Aug 30, 2021: Abstract Deadline.
+         <br>Oct 15, 2021: Notification of Phase 1 Rejections.
+         <br>Nov 2-5, 2021: Author Feedback Window. 
+         <br>Nov 29, 2021: Notification.'
 
 
 - title: UAI
@@ -238,10 +239,10 @@
 - title: SDM
   year: 2021
   id: sdm
-  link: https://www.siam.org/conferences/cm/conference/sdm21
+  link: https://www.siam.org/conferences/cm/conference/sdm22
   deadline: '2020-09-21 23:59:59'
   timezone: UTC-5
-  date: Mar 25-27, 2021
+  date: Apr 28-30, 2022
   place: Alexandria, Virginia, USA
   sub: DM
   note: '<b>NOTE</b>: 
@@ -266,81 +267,81 @@
 
 
 - title: DASFAA
-  year: 2021
+  year: 2022
   id: dasfaa
-  link: http://dm.iis.sinica.edu.tw/DASFAA2021/
-  deadline: '2020-11-04 23:59:59'
-  abstract_deadline: '2020-10-28 23:59:59'
-  timezone: UTC-7
-  date: Apr 11-14, 2021
-  place: Taipei, Taiwan, China
+  link: https://www.dasfaa2022.org
+  deadline: '2021-11-04 23:59:59'
+  abstract_deadline: '2021-10-28 23:59:59'
+  timezone: UTC+12
+  date: Apr 11-14, 2022
+  place: Virtual Conference
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Dec 28, 2020: Notification.'
+         <br>Jan 27, 2022: Notification.'
 
 
 - title: SIGMOD (First Round)
-  year: 2021
+  year: 2022
   id: sigmod_1
-  link: http://2021.sigmod.org/
-  deadline: '2020-07-07 17:00:00'
+  link: https://2022.sigmod.org
+  deadline: '2021-07-02 17:00:00'
   timezone: UTC-7
-  date: June 20-25, 2021
-  place: Xi'an, Shaanxi, China
+  date: Jun 12-17, 2022
+  place: Philadelphia, PA, USA
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Aug 11-14, 2020: Author Response. 
-         <br>Sep 14, 2020: Notification for the initial submission. 
-         <br>Nov 25, 2020: Revision deadline. 
-         <br>Dec 23, 2020: Notification for the revised submission.'
+         <br>Aug 10-17, 2021: Author feedback phase. 
+         <br>Sep 14, 2021: Notification of accept/revise/reject. 
+         <br>Nov 8, 2021: Revised paper submission. 
+         <br>Dec 8, 2021: Notification of accept/reject for revised submission.'
 
 
 - title: SIGMOD (Second Round)
   year: 2021
   id: sigmod_2
-  link: http://2021.sigmod.org/
-  deadline: '2020-09-22 17:00:00'
+  link: https://2022.sigmod.org
+  deadline: '2021-09-15 17:00:00'
   timezone: UTC-7
-  date: Jun 20-25, 2021
-  place: Xi'an, Shaanxi, China
+  date: Jun 12-17, 2022
+  place: Philadelphia, PA, USA
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Oct 27-30, 2020: Author Response. 
-         <br>Nov 30, 2020: Notification for the initial submission.
-         <br>Feb 10, 2021: Revision deadline. 
-         <br>Mar 10, 2021: Notification for the revised submission.'
+         <br>Nov 1-8, 2021: Author feedback phase. 
+         <br>Dec 6, 2021: Notification of accept/revise/reject. 
+         <br>Feb 7, 2022: Revised paper submission. 
+         <br>Mar 7, 2022: Notification of accept/reject for revised submission.'
 
 
 - title: ICDE (First Round)
-  year: 2021
+  year: 2022
   id: icde_1
-  link: https://icde2021.gr/
-  abstract_deadline: '2020-06-10 23:59:59'
-  deadline: '2020-06-17 23:59:59'
-  timezone: UTC-12
-  date: Apr 19-23, 2021
-  place: Chania, Crete, Greece
+  link: https://icde2022.ieeecomputer.my
+  deadline: '2021-07-21 23:59:59'
+  timezone: UTC-8
+  date: May 9-12, 2022
+  place: Virtual Conference
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Jun 10, 2020: Abstract Deadline. 
-         <br>Aug 11, 2020: Notification for the initial submission. 
-         <br>Sep 11, 2020: Revision deadline. 
-         <br>Oct 2, 2020: Notification for the revised submission.'
+         <br>Aug 25, 2021: Early Notification phase. 
+         <br>Aug 30, 2021: Rebuttal due. 
+         <br>Sep 22, 2021: Notification for Authors (Accept/Revise/Reject).
+         <br>Oct 27, 2021: Revision due.
+         <br>Nov 10, 2021: Notification to authors (Accept/Reject).'
 
 
 - title: ICDE (Second Round)
-  year: 2021
+  year: 2022
   id: icde_2
-  link: https://icde2021.gr/
-  abstract_deadline: '2020-10-07 23:59:59'
-  deadline: '2020-10-14 23:59:59'
-  timezone: UTC-12
-  date: Apr 19-23, 2021
-  place: Chania, Crete, Greece
+  link: https://icde2022.ieeecomputer.my
+  deadline: '2021-11-17 23:59:59'
+  timezone: UTC-8
+  date: May 9-12, 2022
+  place: Virtual Conference
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Oct 7, 2020: Abstract Deadline. 
-         <br>Dec 15, 2020: Notification for the initial submission. 
-         <br>Jan 15, 2021: Revision Deadline. 
-         <br>Feb 9, 2021: Notification for revised submission.'
+         <br>Dec 22, 2021: Early Notification phase. 
+         <br>Jan 7, 2022: Rebuttal due. 
+         <br>Jan 26, 2022: Notification for Authors (Accept/Revise/Reject).
+         <br>Mar 2, 2022: Revision due.
+         <br>Mar 30, 2022: Notification to authors (Accept/Reject).'
 
