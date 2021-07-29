@@ -253,8 +253,8 @@
   year: 2022
   id: www
   link: https://www2022.thewebconf.org
-  abstract_deadline: '2021-10-11 23:59:59'
-  deadline: '2021-10-18 23:59:59'
+  abstract_deadline: '2021-10-14 23:59:59'
+  deadline: '2021-10-21 23:59:59'
   timezone: UTC-12
   date: Apr 25-29, 2022
   place: Lyon, France
@@ -262,8 +262,8 @@
     - DM
     - IR
   note: '<b>NOTE</b>: 
-         <br>Oct 11, 2021: Abstract Deadline. 
-         <br>Jan 10, 2022: Notification.'
+         <br>Oct 14, 2021: Abstract Deadline. 
+         <br>Jan 13, 2022: Notification.'
 
 
 - title: DASFAA
