@@ -1,0 +1,6 @@
+#hexo robots.txt
+User-agent: *
+
+Allow: /
+
+Sitemap: https://cddl.lihui.info/sitemap.xml

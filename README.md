@@ -21,6 +21,8 @@ sub:
     - IR
 ```
 
+Update last update date `lastmod` in `sitemap.xml`.
+
 ![Description](Description.png)
 
 To run it in local machine:
