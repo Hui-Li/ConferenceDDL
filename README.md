@@ -31,7 +31,7 @@ To run it in local machine:
 gem install jekyll bundler  # install environment
 bundle install
 bundle exec jekyll serve    # run in local machine
-jekyll build                # generate html file
+bundle exec jekyll build    # generate html file
 bundle exec jekyll remove   # remove html file
 ```
 
