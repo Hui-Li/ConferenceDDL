@@ -144,18 +144,18 @@
 
 
 - title: SIGIR
-  year: 2021
+  year: 2022
   id: sigir
-  link: http://sigir.org/sigir2021
-  abstract_deadline: '2021-02-02 23:59:59'
-  deadline: '2021-02-09 23:59:59'
+  link: http://sigir.org/sigir2022
+  abstract_deadline: '2022-01-24 23:59:59'
+  deadline: '2022-01-31 23:59:59'
   timezone: UTC-12
   date: Jul 11-15, 2021
-  place: Montreal, Canada
+  place: Madrid, Spain
   sub: IR
   note: '<b>NOTE</b>: 
-         <br>Feb 2, 2021: Abstract Deadline. 
-         <br>Apr 19, 2021: Notification.'
+         <br>Jan 24, 2022: Abstract Deadline. 
+         <br>Apr 14, 2022: Notification.'
 
 
 - title: CIKM
@@ -220,20 +220,20 @@
 
 
 - title: IJCAI
-  year: 2021
+  year: 2022
   id: ijcai
-  link: https://ijcai-21.org/
-  abstract_deadline: '2021-01-12 23:59:59'
-  deadline: '2021-01-18 23:59:59'
+  link: https://ijcai-22.org/
+  abstract_deadline: '2021-12-30 23:59:59'
+  deadline: '2022-01-07 23:59:59'
   timezone: UTC-12
-  date: Aug 21-26, 2021
-  place: Montreal, Canada
+  date: Jul 23-29, 2022
+  place: Vienna, Austria
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Jan 12, 2021: Abstract Deadline. 
-         <br>Feb 5, 2021: Summary Reject Notification. 
-         <br>Mar 20-24, 2021: Author Response. 
-         <br>Apr 25, 2021: Notification.'
+         <br>Dec 30, 2021: Abstract Deadline. 
+         <br>Feb 18, 2022: Summary Reject Notification. 
+         <br>Mar 16-18, 2022: Author Response. 
+         <br>Apr 20, 2022: Notification.'
 
 
 - title: SDM
