@@ -99,19 +99,16 @@
 
 
 - title: ACL
-  year: 2021
+  year: 2022
   id: acl
-  link: https://2021.aclweb.org
-  abstract_deadline: '2021-01-25 23:59:59'
-  deadline: '2021-02-01 23:59:59'
+  link: https://2022.aclweb.org
+  deadline: '2021-11-15 23:59:59'
   timezone: UTC-12
-  date: Aug 2-4, 2021
-  place: Bangkok, Thailand
+  date: May 22-27, 2021
+  place: Dublin, Ireland
   sub: NLP
   note: '<b>NOTE</b>: 
-         <br>Jan 25, 2021: Abstract Deadline. 
-         <br>Mar 25-31, 2021: Author Response. 
-         <br>May 5, 2021: Notification.'
+         <br>Feb 20, 2022: Notification.'
 
 
 - title: EMNLP
@@ -131,16 +128,16 @@
 
 
 - title: KDD
-  year: 2021
+  year: 2022
   id: kdd
-  link: https://www.kdd.org/kdd2021
-  deadline: '2021-02-08 23:59:59'
+  link: https://www.kdd.org/kdd2022
+  deadline: '2022-02-10 23:59:59'
   timezone: UTC-12
   date: Aug 14-18, 2021
-  place: Singapore
+  place: Washington DC, USA
   sub: DM
   note: '<b>NOTE</b>: 
-         <br>May 17, 2021: Notification.'
+         <br>May 19, 2022: Notification.'
 
 
 - title: SIGIR
