@@ -67,19 +67,18 @@
 
 
 - title: ICML
-  year: 2021
+  year: 2022
   id: icml
-  link: https://icml.cc/Conferences/2021
-  abstract_deadline: '2021-01-28 23:59:59'
-  deadline: '2021-02-04 23:59:59'
+  link: https://icml.cc/Conferences/2022
+  abstract_deadline: '2022-01-20 23:59:59'
+  deadline: '2022-01-27 23:59:59'
   timezone: UTC-12
-  date: Jul 18-24, 2021
-  place: Vienna, Austria
+  date: Jul 17-23, 2022
+  place: Baltimore, Maryland, USA
   sub: ML
   note: '<b>NOTE</b>: 
-         <br>Jan 28, 2021: Abstract Deadline. 
-         <br>Mar 18-23, 2021: Author Response.
-         <br>May 8, 2021: Notification.'
+         <br>Jan 20, 2022: Abstract Deadline. 
+         <br>TBA: Notification.'
 
 
 - title: NeurIPS
@@ -144,14 +143,14 @@
   year: 2022
   id: sigir
   link: http://sigir.org/sigir2022
-  abstract_deadline: '2022-01-24 23:59:59'
-  deadline: '2022-01-31 23:59:59'
+  abstract_deadline: '2022-01-21 23:59:59'
+  deadline: '2022-01-28 23:59:59'
   timezone: UTC-12
   date: Jul 11-15, 2021
   place: Madrid, Spain
   sub: IR
   note: '<b>NOTE</b>: 
-         <br>Jan 24, 2022: Abstract Deadline. 
+         <br>Jan 21, 2022: Abstract Deadline. 
          <br>Apr 14, 2022: Notification.'
 
 
@@ -220,14 +219,14 @@
   year: 2022
   id: ijcai
   link: https://ijcai-22.org/
-  abstract_deadline: '2021-12-30 23:59:59'
-  deadline: '2022-01-07 23:59:59'
+  abstract_deadline: '2022-01-07 23:59:59'
+  deadline: '2022-01-14 23:59:59'
   timezone: UTC-12
   date: Jul 23-29, 2022
   place: Vienna, Austria
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Dec 30, 2021: Abstract Deadline. 
+         <br>Jan 7, 2022: Abstract Deadline. 
          <br>Feb 18, 2022: Summary Reject Notification. 
          <br>Mar 16-18, 2022: Author Response. 
          <br>Apr 20, 2022: Notification.'
