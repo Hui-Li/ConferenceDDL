@@ -11,3 +11,5 @@
   sub: AI
 - name: Machine Learning
   sub: ML
+- name: Software Engineering
+  sub: SE

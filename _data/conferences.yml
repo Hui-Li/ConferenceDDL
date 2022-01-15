@@ -1,5 +1,20 @@
 ---
 
+- title: MM
+  year: 2022
+  id: mm
+  link: https://2022.acmmm.org/
+  abstract_deadline: '2022-03-31 23:59:59'
+  deadline: '2022-04-07 23:59:59'
+  timezone: UTC-12
+  date: Oct 10-14, 2022
+  place: Lisbon, Portugal
+  sub: AI
+  note: '<b>NOTE</b>: 
+         <br>Mar 31, 2022: Abstract Deadline. 
+         <br>Jun 29, 2022: Notification.'
+
+
 - title: ICDM
   year: 2021
   id: icdm
@@ -341,3 +356,31 @@
          <br>Mar 2, 2022: Revision due.
          <br>Mar 30, 2022: Notification to authors (Accept/Reject).'
 
+
+- title: ASE
+  year: 2022
+  id: ase
+  link: https://conf.researchr.org/dates/ase-2022
+  abstract_deadline: '2022-04-29 23:59:00'
+  deadline: '2022-05-06 23:59:00'
+  timezone: UTC-12
+  date: Sep 26 - Oct 1 
+  place: Ann Arbor, Michigan, United States
+  sub: SE
+  note: '<b>NOTE</b>:  
+         <br>Jul 20: Notification.'
+
+
+- title: ESEC/FSE
+  year: 2022
+  id: esecfse22
+  link: https://2022.esec-fse.org/track/fse-2022-research-papers
+  deadline: '2022-03-17 23:59:00'
+  timezone: UTC-12
+  date: Nov 14-18, 2022
+  place: Singapore
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>May 9-13: 1st Rebuttal period (all papers).
+         <br>May 30-31: Additional Author Response (selected papers). 
+         <br>Jun 14: Notification.'
