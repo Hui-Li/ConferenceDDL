@@ -125,19 +125,19 @@
 
 
 - title: EMNLP
-  year: 2021
+  year: 2022
   id: emnlp
-  link: https://2021.emnlp.org
-  abstract_deadline: '2021-05-10 23:59:59'
-  deadline: '2021-05-17 23:59:59'
+  link: https://2022.emnlp.org
+  abstract_deadline: '2022-06-17 23:59:59'
+  deadline: '2022-06-24 23:59:59'
   timezone: UTC-12
-  date: Nov 7-9, 2021
-  place: Punta Cana, Dominican Republic
+  date: Dec 9-11, 2022
+  place: Abu Dhabi, United Arab Emirates
   sub: NLP
   note: '<b>NOTE</b>: 
-         <br>May 10, 2021: Abstract Deadline. 
-         <br>Jul 11-17, 2021: Author Response. 
-         <br>Aug 25, 2021: Notification.'
+         <br>Jun 17, 2022: Abstract Deadline. 
+         <br>Aug 23-29, 2022: Author Response. 
+         <br>Oct 6, 2022: Notification.'
 
 
 - title: KDD
@@ -184,35 +184,32 @@
 
 
 - title: WSDM
-  year: 2022
+  year: 2023
   id: wsdm
-  link: http://www.wsdm-conference.org/2022/
-  deadline: '2021-08-13 23:59:59'
+  link: http://www.wsdm-conference.org/2023/
+  deadline: '2022-08-12 23:59:59'
   timezone: UTC-12
-  date: Feb 21-25, 2022
-  place: Phoenix, Arizona
+  date: Feb 27 - Mar 3, 2023
+  place: Singapore
   sub: 
     - DM
     - IR
   note: '<b>NOTE</b>: 
-         <br>Oct 11, 2021: Notification.'
+         <br>Oct 21, 2022: Notification.'
 
 
 - title: AAAI
-  year: 2022
+  year: 2023
   id: aaai
-  link: https://aaai.org/Conferences/AAAI-22
-  abstract_deadline: '2021-08-30 23:59:59'
-  deadline: '2021-09-08 23:59:59'
+  link: https://aaai.org/Conferences/AAAI-23/
+  abstract_deadline: '2022-08-08 23:59:59'
+  deadline: '2022-08-15 23:59:59'
   timezone: UTC-12
-  date: Feb 22 - Mar 1, 2022
-  place: Vancouver, BC, Canada
+  date: Feb 7 - 14, 2023
+  place: Washington, DC, USA
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Aug 30, 2021: Abstract Deadline.
-         <br>Oct 15, 2021: Notification of Phase 1 Rejections.
-         <br>Nov 2-5, 2021: Author Feedback Window. 
-         <br>Nov 29, 2021: Notification.'
+         <br>Aug 8, 2022: Abstract Deadline.'
 
 
 - title: UAI
@@ -291,69 +288,97 @@
 
 
 - title: SIGMOD (First Round)
-  year: 2022
+  year: 2023
   id: sigmod_1
-  link: https://2022.sigmod.org
-  deadline: '2021-07-02 17:00:00'
+  link: https://2023.sigmod.org
+  deadline: '2022-04-15 11:59:59'
   timezone: UTC-7
-  date: Jun 12-17, 2022
-  place: Philadelphia, PA, USA
+  date: Jun 18-23, 2023
+  place: Seattle, WA, USA
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Aug 10-17, 2021: Author feedback phase. 
-         <br>Sep 14, 2021: Notification of accept/revise/reject. 
-         <br>Nov 8, 2021: Revised paper submission. 
-         <br>Dec 8, 2021: Notification of accept/reject for revised submission.'
+         <br>May 25-27, 2022: Author feedback phase. 
+         <br>Jun 20, 2022: Notification of accept/revise/reject. 
+         <br>Jul 20, 2022: Revised paper submission. 
+         <br>Aug 23, 2022: Notification of accept/reject for revised submission.'
 
 
 - title: SIGMOD (Second Round)
-  year: 2021
+  year: 2023
   id: sigmod_2
-  link: https://2022.sigmod.org
-  deadline: '2021-09-15 17:00:00'
+  link: https://2023.sigmod.org
+  deadline: '2022-07-15 23:59:59'
   timezone: UTC-7
-  date: Jun 12-17, 2022
-  place: Philadelphia, PA, USA
+  date: Jun 18-23, 2023
+  place: Seattle, WA, USA
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Nov 1-8, 2021: Author feedback phase. 
-         <br>Dec 6, 2021: Notification of accept/revise/reject. 
-         <br>Feb 7, 2022: Revised paper submission. 
-         <br>Mar 7, 2022: Notification of accept/reject for revised submission.'
+         <br>Aug 25-27, 2022: Author feedback phase. 
+         <br>Sep 20, 2022: Notification of accept/revise/reject. 
+         <br>Oct 20, 2022: Revised paper submission. 
+         <br>Nov 23, 2022: Notification of accept/reject for revised submission.'
+
+
+- title: SIGMOD (Third Round)
+  year: 2023
+  id: sigmod_3
+  link: https://2023.sigmod.org
+  deadline: '2022-10-15 23:59:59'
+  timezone: UTC-7
+  date: Jun 18-23, 2023
+  place: Seattle, WA, USA
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>Nov 25-27, 2022: Author feedback phase. 
+         <br>Dec 20, 2022: Notification of accept/revise/reject. 
+         <br>Jan 20, 2023: Revised paper submission. 
+         <br>Feb 23, 2023: Notification of accept/reject for revised submission.'
 
 
 - title: ICDE (First Round)
-  year: 2022
+  year: 2023
   id: icde_1
-  link: https://icde2022.ieeecomputer.my
-  deadline: '2021-07-21 23:59:59'
+  link: https://icde2023.ics.uci.edu/
+  deadline: '2022-04-25 23:59:59'
   timezone: UTC-8
-  date: May 9-12, 2022
-  place: Virtual Conference
+  date: Apr 3-7, 2023
+  place: Anaheim, California, USA
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Aug 25, 2021: Early Notification phase. 
-         <br>Aug 30, 2021: Rebuttal due. 
-         <br>Sep 22, 2021: Notification for Authors (Accept/Revise/Reject).
-         <br>Oct 27, 2021: Revision due.
-         <br>Nov 10, 2021: Notification to authors (Accept/Reject).'
+         <br>Jun 25, 2022: Notification to authors (Accept/Revise/Reject). 
+         <br>Jul 25, 2022: Revisions due. 
+         <br>Aug 25, 2022: Final Notification to authors (Accept/Reject).'
 
 
 - title: ICDE (Second Round)
-  year: 2022
-  id: icde_2
-  link: https://icde2022.ieeecomputer.my
-  deadline: '2021-11-17 23:59:59'
+  year: 2023
+  id: icde_1
+  link: https://icde2023.ics.uci.edu/
+  deadline: '2022-07-08 23:59:59'
   timezone: UTC-8
-  date: May 9-12, 2022
-  place: Virtual Conference
+  date: Apr 3-7, 2023
+  place: Anaheim, California, USA
   sub: DB
   note: '<b>NOTE</b>: 
-         <br>Dec 22, 2021: Early Notification phase. 
-         <br>Jan 7, 2022: Rebuttal due. 
-         <br>Jan 26, 2022: Notification for Authors (Accept/Revise/Reject).
-         <br>Mar 2, 2022: Revision due.
-         <br>Mar 30, 2022: Notification to authors (Accept/Reject).'
+         <br>Sep 8, 2022: Notification to authors (Accept/Revise/Reject). 
+         <br>Oct 8, 2022: Revisions due. 
+         <br>Nov 8, 2022: Final Notification to authors (Accept/Reject).'
+
+
+- title: ICDE (Third Round)
+  year: 2023
+  id: icde_1
+  link: https://icde2023.ics.uci.edu/
+  deadline: '2022-10-08 23:59:59'
+  timezone: UTC-8
+  date: Apr 3-7, 2023
+  place: Anaheim, California, USA
+  sub: DB
+  note: '<b>NOTE</b>: 
+         <br>Dec 8, 2022: Notification to authors (Accept/Revise/Reject). 
+         <br>Jan 8, 2023: Revisions due. 
+         <br>Feb 8, 2023: Final Notification to authors (Accept/Reject).'
+
 
 
 - title: ASE
@@ -372,7 +397,7 @@
 
 - title: ESEC/FSE
   year: 2022
-  id: esecfse22
+  id: esecfse
   link: https://2022.esec-fse.org/track/fse-2022-research-papers
   deadline: '2022-03-17 23:59:00'
   timezone: UTC-12
@@ -383,3 +408,18 @@
          <br>May 9-13: 1st Rebuttal period (all papers).
          <br>May 30-31: Additional Author Response (selected papers). 
          <br>Jun 14: Notification.'
+
+
+- title: ICSE
+  year: 2023
+  id: icse
+  link: https://conf.researchr.org/home/icse-2023
+  deadline: '2022-09-01 23:59:00'
+  timezone: UTC-12
+  date: May 14-20, 2023
+  place: Melbourne, Australia
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>Nov 14-16: Author First Response Period (all papers).
+         <br>Nov 28-29: Second Response Period (some papers). 
+         <br>Dec 9: Acceptance Notification.'
