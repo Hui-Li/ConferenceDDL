@@ -246,16 +246,17 @@
 
 
 - title: SDM
-  year: 2021
+  year: 2023
   id: sdm
-  link: https://www.siam.org/conferences/cm/conference/sdm22
-  deadline: '2020-09-21 23:59:59'
-  timezone: UTC-5
-  date: Apr 28-30, 2022
-  place: Alexandria, Virginia, USA
+  link: https://www.siam.org/conferences/cm/conference/sdm23
+  abstract_deadline: '2022-09-30 23:59:59'
+  deadline: '2022-10-07 23:59:59'
+  timezone: UTC-7
+  date: Apr 27-29, 2023
+  place: Minneapolis, Minnesota, USA
   sub: DM
   note: '<b>NOTE</b>: 
-         <br>Dec, 2020: Notification.'
+         <br>Dec, 2022: Notification.'
 
 
 - title: The Web Conference
