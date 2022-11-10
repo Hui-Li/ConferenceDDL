@@ -112,17 +112,19 @@
 
 
 - title: ACL
-  year: 2022
+  year: 2023
   id: acl
-  link: https://2022.aclweb.org
-  deadline: '2021-11-15 23:59:59'
+  link: https://2023.aclweb.org
+  abstract_deadline: '2023-01-13 23:59:59'
+  deadline: '2023-01-20 23:59:59'
   timezone: UTC-12
-  date: May 22-27, 2021
-  place: Dublin, Ireland
+  date: Jul 9-14, 2023
+  place: Toronto, Canada
   sub: NLP
   note: '<b>NOTE</b>: 
-         <br>Feb 20, 2022: Notification.'
-
+         <br>Jan 13, 2023: Abstract Deadline. 
+         <br>Mar 17-24, 2023: Author Response.
+         <br>May 1, 2023: Notification.'
 
 - title: EMNLP
   year: 2022
@@ -154,18 +156,18 @@
 
 
 - title: SIGIR
-  year: 2022
+  year: 2023
   id: sigir
-  link: http://sigir.org/sigir2022
-  abstract_deadline: '2022-01-21 23:59:59'
-  deadline: '2022-01-28 23:59:59'
+  link: http://sigir.org/sigir2023
+  abstract_deadline: '2023-01-24 23:59:59'
+  deadline: '2023-01-31 23:59:59'
   timezone: UTC-12
-  date: Jul 11-15, 2021
-  place: Madrid, Spain
+  date: Jul 23-27, 2023
+  place: Taipei, Taiwan, China
   sub: IR
   note: '<b>NOTE</b>: 
-         <br>Jan 21, 2022: Abstract Deadline. 
-         <br>Apr 14, 2022: Notification.'
+         <br>Jan 24, 2023: Abstract Deadline. 
+         <br>Apr 4, 2023: Notification.'
 
 
 - title: CIKM
@@ -229,20 +231,20 @@
 
 
 - title: IJCAI
-  year: 2022
+  year: 2023
   id: ijcai
-  link: https://ijcai-22.org/
-  abstract_deadline: '2022-01-07 23:59:59'
-  deadline: '2022-01-14 23:59:59'
+  link: https://ijcai-23.org/
+  abstract_deadline: '2023-01-11 23:59:59'
+  deadline: '2023-01-18 23:59:59'
   timezone: UTC-12
-  date: Jul 23-29, 2022
-  place: Vienna, Austria
+  date: Aug 19-25, 2023
+  place: Cape Town, South Africa
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Jan 7, 2022: Abstract Deadline. 
-         <br>Feb 18, 2022: Summary Reject Notification. 
-         <br>Mar 16-18, 2022: Author Response. 
-         <br>Apr 20, 2022: Notification.'
+         <br>Jan 11, 2023: Abstract Deadline. 
+         <br>Feb 24, 2023: Summary Reject Notification. 
+         <br>Mar 20-23, 2023: Author Response. 
+         <br>Apr 19, 2023: Notification.'
 
 
 - title: SDM
@@ -442,3 +444,19 @@
          <br>Nov 14-16: Author First Response Period (all papers).
          <br>Nov 28-29: Second Response Period (some papers). 
          <br>Dec 9: Acceptance Notification.'
+
+
+- title: ICPC
+  year: 2023
+  id: icpc
+  link: https://conf.researchr.org/home/icpc-2023
+  abstract_deadline: '2022-12-10 23:59:00'
+  deadline: '2022-12-15 23:59:00'
+  timezone: UTC-12
+  date: May 15-16, 2023
+  place: Melbourne, Australia
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>Feb 9: Research Preliminary notification sent to authors.
+         <br>Feb 9-12: Author Rebuttal Period. 
+         <br>Feb 21: Final Author Notification.'
