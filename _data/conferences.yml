@@ -143,16 +143,17 @@
 
 
 - title: KDD
-  year: 2022
+  year: 2023
   id: kdd
-  link: https://www.kdd.org/kdd2022
-  deadline: '2022-02-10 23:59:59'
+  link: https://kdd.org/kdd2023
+  deadline: '2023-02-02 23:59:59'
   timezone: UTC-12
-  date: Aug 14-18, 2021
-  place: Washington DC, USA
+  date: Aug 6-10, 2023
+  place: Long Beach CA, USA
   sub: DM
   note: '<b>NOTE</b>: 
-         <br>May 19, 2022: Notification.'
+         <br>Apr 6-27: Author/Reviewer Interaction and Reviewer Discussion.
+         <br>May 18: Notification.'
 
 
 - title: SIGIR
@@ -417,19 +418,33 @@
 
 
 - title: ESEC/FSE
-  year: 2022
+  year: 2023
   id: esecfse
-  link: https://2022.esec-fse.org/track/fse-2022-research-papers
-  deadline: '2022-03-17 23:59:00'
+  link: https://conf.researchr.org/home/fse-2023
+  abstract_deadline: '2023-01-26 23:59:00'
+  deadline: '2023-02-02 23:59:00'
   timezone: UTC-12
-  date: Nov 14-18, 2022
-  place: Singapore
+  date: Nov 11-17, 2023
+  place: San Francisco, California, USA
   sub: SE
   note: '<b>NOTE</b>: 
-         <br>May 9-13: 1st Rebuttal period (all papers).
-         <br>May 30-31: Additional Author Response (selected papers). 
-         <br>Jun 14: Notification.'
+         <br>May 4: Initial notification.
+         <br>Jun 29: Revised manuscript submissions (major revisions only). 
+         <br>Jul 27: Final notification for major revisions.'
 
+
+- title: ISSTA (Second Round)
+  year: 2023
+  id: issta
+  link: https://conf.researchr.org/home/issta-2023
+  deadline: '2023-02-16 23:59:00'
+  timezone: UTC-12
+  date: Jul 17-21, 2023
+  place: Seattle, Washington, USA
+  sub: SE
+  note: '<b>NOTE</b>: 
+         <br>Apr 11-13: Technical Papers Second round author response.
+         <br>May 3: Technical Papers Second round paper notification.'
 
 - title: ICSE
   year: 2023
