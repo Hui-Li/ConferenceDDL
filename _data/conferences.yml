@@ -1,18 +1,19 @@
 ---
 
 - title: MM
-  year: 2022
+  year: 2023
   id: mm
-  link: https://2022.acmmm.org/
-  abstract_deadline: '2022-03-31 23:59:59'
-  deadline: '2022-04-07 23:59:59'
+  link: https://www.acmmm2023.org
+  abstract_deadline: '2023-04-23 23:59:59'
+  deadline: '2023-04-30 23:59:59'
   timezone: UTC-12
-  date: Oct 10-14, 2022
-  place: Lisbon, Portugal
+  date: Oct 28-Nov 3, 2023
+  place: Ottawa, Canada
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Mar 31, 2022: Abstract Deadline. 
-         <br>Jun 29, 2022: Notification.'
+         <br>Apr 23, 2023: Abstract Deadline. 
+         <br>Jul 2-6, 2023: Rebuttal. 
+         <br>Jun 25, 2022: Notification.'
 
 
 - title: ICDM
@@ -171,14 +172,14 @@
 
 
 - title: CIKM
-  year: 2021
+  year: 2023
   id: cikm
-  link: http://www.cikm2021.org
+  link: https://cikm2023.github.io
   abstract_deadline: '2021-05-19 23:59:59'
   deadline: '2021-05-26 23:59:59'
   timezone: UTC-12
-  date: Nov 1-5, 2021
-  place: Virtual Conference
+  date: Oct 21-25, 2023
+  place: Birmingham, UK
   sub: IR
   note: '<b>NOTE</b>: 
          <br>May 19, 2021: Abstract Deadline. 
