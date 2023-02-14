@@ -404,17 +404,17 @@
 
 
 - title: ASE
-  year: 2022
+  year: 2023
   id: ase
-  link: https://conf.researchr.org/dates/ase-2022
-  abstract_deadline: '2022-04-29 23:59:00'
-  deadline: '2022-05-06 23:59:00'
+  link: https://conf.researchr.org/home/ase-2023
+  abstract_deadline: '2023-04-28 23:59:00'
+  deadline: '2023-05-05 23:59:00'
   timezone: UTC-12
-  date: Sep 26 - Oct 1 
-  place: Ann Arbor, Michigan, United States
+  date: Sep 11-15, 2023
+  place: Kirchberg, Luxembourg
   sub: SE
   note: '<b>NOTE</b>:  
-         <br>Jul 20: Notification.'
+         <br>Jul 17: Notification.'
 
 
 - title: ESEC/FSE
