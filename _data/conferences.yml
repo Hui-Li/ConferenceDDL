@@ -17,16 +17,16 @@
 
 
 - title: ICDM
-  year: 2022
+  year: 2023
   id: icdm
-  link: https://icdm22.cse.usf.edu
-  deadline: '2022-06-10 23:59:59'
-  timezone: UTC-7
-  date: Nov 30 - Dec 3, 2022
-  place: Orlando, FL, USA
+  link: http://www.cloud-conf.net/icdm2023
+  deadline: '2023-07-01 23:59:59'
+  timezone: UTC+8
+  date: Dec 1 - 4, 2023
+  place: Shanghai, China
   sub: DM
   note: '<b>NOTE</b>: 
-         <br>Aug 31, 2022: Notification.'
+         <br>Sep 1, 2023: Notification.'
 
 
 - title: ECML-PKDD
@@ -187,34 +187,34 @@
 
 
 - title: WSDM
-  year: 2023
+  year: 2024
   id: wsdm
-  link: http://www.wsdm-conference.org/2023/
-  deadline: '2022-08-12 23:59:59'
+  link: https://www.wsdm-conference.org/2024/
+  deadline: '2023-08-10 23:59:59'
   timezone: UTC-12
-  date: Feb 27 - Mar 3, 2023
+  date: Mar 4 - Mar 8, 2024
   place: Singapore
   sub: 
     - DM
     - IR
   note: '<b>NOTE</b>: 
-         <br>Oct 21, 2022: Notification.'
+         <br>Oct 19, 2023: Notification.'
 
 
 - title: AAAI
-  year: 2023
+  year: 2024
   id: aaai
-  link: https://aaai.org/Conferences/AAAI-23/
-  abstract_deadline: '2022-08-08 23:59:59'
-  deadline: '2022-08-15 23:59:59'
+  link: https://aaai.org/aaai-conference
+  abstract_deadline: '2023-08-08 23:59:59'
+  deadline: '2023-08-15 23:59:59'
   timezone: UTC-12
-  date: Feb 7 - 14, 2023
-  place: Washington, DC, USA
+  date: Feb 20 - 27, 2024
+  place: Vancouver, Canada
   sub: AI
   note: '<b>NOTE</b>: 
-         <br>Aug 8, 2022: Abstract Deadline.
-         <br>Oct 20-23, 2022: Author Feedback Window.
-         <br>Nov 18, 2022: Notification of Final Acceptance or Rejection.'
+         <br>Aug 8, 2023: Abstract Deadline.
+         <br>Nov 2-5, 2023: Author Feedback Window.
+         <br>Dec 9, 2023: Notification of Final Acceptance or Rejection.'
 
 
 - title: UAI
@@ -263,21 +263,21 @@
 
 
 - title: The Web Conference
-  year: 2023
+  year: 2024
   id: www
-  link: https://www2023.thewebconf.org
-  abstract_deadline: '2022-10-6 23:59:59'
-  deadline: '2022-10-13 23:59:59'
+  link: https://www2024.thewebconf.org
+  abstract_deadline: '2023-10-05 23:59:59'
+  deadline: '2023-10-12 23:59:59'
   timezone: UTC-12
-  date: May 1-5, 2023
-  place: Austin, TX, USA
+  date: May 13-17, 2024
+  place: Singapore
   sub: 
     - DM
     - IR
   note: '<b>NOTE</b>: 
-         <br>Oct 6, 2022: Abstract Deadline. 
-         <br>Dec 22, 2022: Rebuttal.
-         <br>Jan 25, 2023: Notification.'
+         <br>Oct 5, 2023: Abstract Deadline. 
+         <br>Dec 8-14, 2023: Author Response.
+         <br>Feb 1, 2024: Notification.'
 
 
 - title: DASFAA
@@ -447,18 +447,16 @@
          <br>May 3: Technical Papers Second round paper notification.'
 
 - title: ICSE
-  year: 2023
+  year: 2024
   id: icse
-  link: https://conf.researchr.org/home/icse-2023
-  deadline: '2022-09-01 23:59:00'
+  link: https://conf.researchr.org/home/icse-2024
+  deadline: '2023-08-01 23:59:00'
   timezone: UTC-12
-  date: May 14-20, 2023
-  place: Melbourne, Australia
+  date: Apr 14-20, 2024
+  place: Lisbon, Portugal
   sub: SE
   note: '<b>NOTE</b>: 
-         <br>Nov 14-16: Author First Response Period (all papers).
-         <br>Nov 28-29: Second Response Period (some papers). 
-         <br>Dec 9: Acceptance Notification.'
+         <br>Oct 10: Acceptance Notification.'
 
 
 - title: ICPC
@@ -475,3 +473,19 @@
          <br>Feb 9: Research Preliminary notification sent to authors.
          <br>Feb 9-12: Author Rebuttal Period. 
          <br>Feb 21: Final Author Notification.'
+
+
+- title: S&P
+  year: 2024
+  id: sp
+  link: https://sp2024.ieee-security.org/
+  deadline: '2023-08-03 23:59:00'
+  timezone: UTC-12
+  date: May 20-23, 2024
+  place: San Francisco, CA, USA
+  sub: SEC
+  note: '<b>NOTE</b>: 
+         <br>Sep 11: Early-reject notification.
+         <br>Oct 9-20: Rebuttal period (interactive). 
+         <br>Oct 27: Acceptance notification.'
+
