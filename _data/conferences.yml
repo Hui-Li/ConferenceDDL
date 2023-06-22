@@ -66,18 +66,19 @@
 
 
 - title: ICLR
-  year: 2024
+  year: 2022
   id: iclr
-  link: https://waset.org/learning-representations-conference-in-october-2024-in-lisbon
-  abstract_deadline: 'Jul 31, 2023'
-  deadline: 'Jul 31, 2023'
+  link: https://iclr.cc/Conferences/2022
+  abstract_deadline: '2021-09-28 17:00:00'
+  deadline: '2021-10-05 17:00:00'
   timezone: UTC-7
-  date: Oct 28-29, 2024
-  place: Lisbon, Portugal
+  date: Apr 25-29, 2022
+  place: Vienna, Austria
   sub: ML
   note: '<b>NOTE</b>: 
-         <br>Jul 31, 2023: Abstracts/Full-Text Paper Submission Deadline
-         <br>Aug 30, 2023: Notification of Acceptance/Rejection
+         <br>Sep 28, 2021: Abstract deadline. 
+         <br>Nov 8-22, 2021: Author discussion period . 
+         <br>Jan 24, 2022: Notification.'
 
 
 - title: ICML
@@ -487,4 +488,3 @@
          <br>Sep 11: Early-reject notification.
          <br>Oct 9-20: Rebuttal period (interactive). 
          <br>Oct 27: Acceptance notification.'
-
