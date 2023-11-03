@@ -1,8 +1,6 @@
 ---
 - name: Data Mining
   sub: DM
-# - name: Database
-#   sub: DB
 - name: Information Retrieval
   sub: IR
 - name: Natural Language Processing
@@ -11,7 +9,3 @@
   sub: AI
 - name: Machine Learning
   sub: ML
-# - name: Software Engineering
-#   sub: SE
-# - name: Security
-#   sub: SEC
